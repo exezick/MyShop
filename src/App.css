@@ -1,0 +1,23 @@
+html, body{overflow-x: hidden;}
+.curvybg{
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.zindex100{
+  z-index: 100 !important;
+}
+
+.TitleText{
+  color: #515C6F !important;
+}
+
+.borderTitle{
+  background: #ED5199;
+  height: 5px;
+  width: 80px;
+  border: 0px;
+  margin-top: 20px !important;
+}
